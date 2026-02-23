@@ -7,6 +7,7 @@ public interface BankAccount {
 
     /**
      * Returns the current balance of the bank account
+     *
      * @return the current balance
      */
     double getBalance();
